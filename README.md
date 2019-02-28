@@ -1,6 +1,12 @@
 # belajarjav
-1 buka xampp dan buat database
-2 import data base
-3 buka aplikasi neatbeans
-4 open project
-5 selesai
+1 Download XAMPP.
+2 Buka XAMPP.
+3 Muncul pesan peringatan, lalu YES.
+4 Pilih aplikasi yang ingin diinstal, lalu Next >.
+5 masuk xampp
+6 buat data base 
+7 import data base
+8 instal neatbeans
+9 buka neatbeans
+10 open project yang sudah ada
+11 selesai
